@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
