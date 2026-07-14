@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
