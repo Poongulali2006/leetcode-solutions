@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0739-daily-temperatures](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/Poongulali2006/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Poongulali2006/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -84,8 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Poongulali2006/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
